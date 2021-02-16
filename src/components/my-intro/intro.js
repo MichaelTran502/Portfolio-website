@@ -42,7 +42,7 @@ const Intro = () => {
         <div className="sub">
           <Typewriter
             options={{
-              strings: ["Java Developer", "React Developer", "Student"],
+              strings: ["Java Developer", "React Developer", "UNSW Graduate"],
               autoStart: true,
               loop: true,
               delay: 50
