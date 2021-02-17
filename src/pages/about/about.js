@@ -33,7 +33,7 @@ const About = () => {
             I am an aspiring Java Developer looking to build enterprise applications with Java and the Spring Framework.
             <br />
             My most experienced Tech Stack is ReactJs(javascript) frontend, Springboot(Java) backend and PostgreSQL database. 
-            <br />I enjoy working on personal projects im my spare time.
+            <br />I enjoy working on personal projects in my spare time.
             <br /> <br />
 
           </Row>
