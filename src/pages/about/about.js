@@ -59,7 +59,7 @@ const About = () => {
                 </a>
               </div>
               <div>
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/michael-tran-3708041b7/" target="_blank" rel="noopener noreferrer">
                   <Button className="m-2" variant="info">
                     LinkedIn
                   </Button>

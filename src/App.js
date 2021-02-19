@@ -10,6 +10,8 @@ import MyCarousel from './components/my-carousel/my-carousel';
 import Intro from './components/my-intro/intro';
 import About from './pages/about/about';
 import Skills from './pages/skills/skills';
+import Projects from './pages/projects/projects';
+import Contact from './pages/contact/contact';
 
 const App = () => {
   return (
@@ -35,6 +37,21 @@ const App = () => {
           <Skills />
         </Slide>
       </Container>
+
+      <Container className="container-box rounded">
+        <Slide bottom duration={500}>
+          <hr />
+          <Projects />
+        </Slide>
+      </Container>
+
+      <Container className="container-box rounded">
+        <Fade duration={500}>
+          <hr />
+          <Contact />
+        </Fade>
+      </Container>
+
     </div>
   );
 }
