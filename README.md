@@ -1,6 +1,8 @@
 # Portfolio Website
 
 Developer portfolio website built with React.
+The site is currently hosted on netlify.
+[Live Site](https://michael-tran-portfolio.netlify.app/)
 
 ## Overview of tech stack
 
