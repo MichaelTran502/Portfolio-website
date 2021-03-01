@@ -45,13 +45,6 @@ const About = () => {
                 </a>
               </div>
               <div>
-                <a href="" target="_blank" rel="noopener noreferrer">
-                  <Button className="m-2" variant="success">
-                    My Resume
-                  </Button>
-                </a>
-              </div>
-              <div>
                 <a href="https://github.com/MichaelTran502" target="_blank" rel="noopener noreferrer">
                   <Button className="m-2" variant="dark">
                     GitHub
