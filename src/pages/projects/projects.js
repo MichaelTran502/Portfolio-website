@@ -2,9 +2,9 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 import Image from 'react-bootstrap/Image'
-import Portfolio from '../../assets/img/projects/portfolio.webp';
-import StudentRecorder from '../../assets/img/projects/dashboard.webp';
-import LoginSystem from '../../assets/img/projects/login.webp';
+import Portfolio from '../../assets/img/projects/portfolio.jpg';
+import StudentRecorder from '../../assets/img/projects/dashboard.jpg';
+import LoginSystem from '../../assets/img/projects/login.jpg';
 import Button from 'react-bootstrap/Button';
 
 const Projects = () => {
